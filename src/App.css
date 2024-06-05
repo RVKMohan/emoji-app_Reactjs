@@ -1,0 +1,40 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  margin-top: 50px;
+
+}
+
+b {
+  font-size: xx-large;
+}
+
+
+.emoji-search input {
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+}
+
+.emoji-list {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto;
+}
+
+.emoji-item {
+  display: flex;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+  border-radius: 10px;
+  margin: 3px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(116, 116, 116, 0.8);
+}
+
+.emoji-item span:first-child {
+  font-size: 24px;
+
+}
