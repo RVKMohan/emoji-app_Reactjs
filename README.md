@@ -1,3 +1,7 @@
+
+![Screenshot 2024-06-21 104734](https://github.com/RVKMohan/emoji-app_Reactjs/assets/107797667/6c0e4666-6c1a-4fe4-b9e6-4d17ddfec8c1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
